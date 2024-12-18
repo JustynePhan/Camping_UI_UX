@@ -1,6 +1,6 @@
 # 🌍 Travel App
 
-🚀 A modern travel planning application** to explore destinations, plan itineraries, and design beautiful user interfaces.  
+🚀 A modern travel planning application to explore destinations, plan itineraries, and design beautiful user interfaces.  
 🔧 **Note**: This project is **not functional** and serves purely as a learning exercise to enhance my skills in **UI/UX design** and modern frontend development.
 
 ---
